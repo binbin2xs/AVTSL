@@ -1,12 +1,30 @@
-# AVTSL
 
-# [Learning to Unify Audio, Visual and Text for Audio-Enhanced Visual Answer Localization]
+<p align="center">
 
-![Teaser Figure](images/teaser.png)  
-*Figure 1: Your figure caption here (place image in /images folder)*
+  <h1 align="center">Learning to Unify Audio, Visual and Text for Audio-Enhanced Visual Answer Localization</h1>
+  <p align="center">
+    <a><strong>Zhibin Wen</strong></a>
+    ·
+    <a><strong>Bin Li</strong></a>
+</p>
+
+# Method
+![Teaser Figure](framework.jpg)  
+
 
 ## 📌 Status
-```diff
 + Code: Coming soon! 
-+ Paper: Accepted to [Conference/Journal Name] 2024
-+ ArXiv: [![arXiv](https://img.shields.io/badge/arXiv-XXXX.XXXXX-b31b1b.svg)](https://arxiv.org/abs/XXXX.XXXXX)
++ Paper: AVTSL is accepted as ICME2025! 🎄 Meet you in France!
+
+## Citation
+
+If you find this code helpful, please cite:
+
+```
+@article{wen2024learning,
+  title={Learning to Unify Audio, Visual and Text for Audio-Enhanced Multilingual Visual Answer Localization},
+  author={Wen, Zhibin and Li, Bin},
+  journal={arXiv preprint arXiv:2411.02851},
+  year={2024}
+}
+```
